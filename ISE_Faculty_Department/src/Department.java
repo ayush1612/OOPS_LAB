@@ -1,3 +1,4 @@
+package Default;
 public interface Department {
     public void readData();
     public void printData();
