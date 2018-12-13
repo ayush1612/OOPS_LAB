@@ -1,7 +1,6 @@
 package ISE;
 import java.util.*;
-import Department.java;
-
+import Default.*;
 public class ISE_department extends Faculty implements Department{
     public int n;
     public Faculty fac[];
@@ -58,11 +57,6 @@ public class ISE_department extends Faculty implements Department{
             System.out.println("Subject Handle:"+fac[i].sub_hand);
         }
         }
-    }
-      public static void main(String args[])
-    {
-        ISE_department D=new ISE_department();
-        D.readData();
-        D.printData();
-    }
+    }    
+
 }
