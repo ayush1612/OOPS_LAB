@@ -1,7 +1,7 @@
-# OOPS_LAB
+# OOPS_LAB - 6TH SEM ISE
 This repository holds the  codes which implements OOPS concept in JAVA.
 # Sem 3 Questions
-* [**Question 1**](https://github.com/ayush1612/OOPS_LAB/tree/master/Question1/src)
+* [**QUESTION 1**](https://github.com/ayush1612/OOPS_LAB/tree/master/Question1/src)
 * [**Question 2**](https://github.com/ayush1612/OOPS_LAB/blob/master/Question2/src/account.java)
 * [**Question 3**](https://github.com/ayush1612/OOPS_LAB/blob/master/Question3/src/Stack.java)
 * [**Question 4**](https://github.com/ayush1612/OOPS_LAB/blob/master/Question4/src/Complex.java)
